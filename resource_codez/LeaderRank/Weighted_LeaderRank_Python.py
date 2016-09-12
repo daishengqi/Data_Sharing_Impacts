@@ -35,7 +35,7 @@ for i in range(1,4094):
 	print (sum(graph[i][1:4094]),file = output)
 	
 
-############### LeaderRank  #########################
+############### LeaderRank Function Definition  #########################
 def InitialGraph(Graph):
 	for i in range(1,len(Graph)):
 		Graph[0][i] = 1 #Citation Power Change
