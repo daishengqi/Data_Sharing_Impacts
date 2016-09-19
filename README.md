@@ -1,4 +1,6 @@
 # Data_Sharing_Impacts
-Git for paper "Scientific Impacts &amp; the Willingness of Data Sharing in Ecology", written for better policy solution in data communication.
+Git for paper "Leading scientists are more likely to share data in ecology observation" which was written for supporting better policy solution in ecology data communication.
 
-Source codes of web crawler, DOM parser and LeaderRank algorithm were put in their respective folders.
+The source codez of web crawler, data analysis, LeaderRank algorithm and data visualization were all put in their respective folders under resource_codez.
+
+An index page was generated automatically by Gibhub.
