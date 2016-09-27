@@ -16,6 +16,9 @@ Most of the data visualization were produced by Python 2.7, the package involved
 
 ## Contact
 You've discovered a bug or something else you want to change - excellent!
+
 You've worked out a way to fix it – even better!
+
 You want to tell us about it – best of all!
+
 The easiest way to contribute is through GitHub, for more information please contact: daishengqi@hotmail.com
