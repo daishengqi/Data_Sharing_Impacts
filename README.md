@@ -2,7 +2,7 @@
 This is the Git for paper "Leading scientists are more likely to share data in ecology observation" which was written for supporting better policy solution in ecology data communication. This repository contains the source codez of web crawler, data analysis, LeaderRank algorithm and data visualization used in paper, codesz are all put in their respective folders under resource_codez.
 
 ## Datasets
-* **Bibliometric Data**: A total of 4274 research papers were collected in this study. This dataset was collected using formula: `TS = ((flux AND eddy covariance) OR fluxnet OR ameriflux OR asiaflux OR chinaflux OR japanflux OR euroflux OR ozflux OR mexflux) PY = (1982-2015)` and utf-8 full record in Thomson Reuters Web of Science.
+* **Bibliometric Data**: A total of 4274 research papers were collected in this study. This dataset was collected using formula: `TS = ((flux AND eddy covariance) OR fluxnet OR ameriflux OR asiaflux OR chinaflux OR japanflux OR euroflux OR ozflux OR mexflux) PY = (1982-2015)` in the form of utf-8 full record at Thomson Reuters Web of Science.
 
 * **Webpage Data**: Webpages were fetched by Web crawler [Apache Nutch](https://archive.apache.org/dist/nutch/1.9/) and indexed by [Apache Solr](http://lucene.apache.org/solr/), the depth and topN (Maximum webpages that fetched on each depth) in Nutch were set to 10 and 50000 respectively. Root webpages for Nutch was set to index pages of all flux networks.
 
