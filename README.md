@@ -14,6 +14,8 @@ This is the Git for paper "Leading scientists are more likely to share data in e
 ## Data Visualization
 Most of the data visualization were produced by Python 2.7, the package involved: pylab, pandas, collections, numpy, nltk and matplotlib. Stastics was done using both R Ver 3.1.1 and Microsoft Excel 2013. Image mosaicking was done mostly by Adobe Illustrator and Photoshop.
 
-##Contact
-The index page was generated automatically by Gibhub.
-For more information please contact: daishengqi@hotmail.com
+## Contact
+You've discovered a bug or something else you want to change - excellent!
+You've worked out a way to fix it – even better!
+You want to tell us about it – best of all!
+The easiest way to contribute is through GitHub, for more information please contact: daishengqi@hotmail.com
