@@ -8,7 +8,7 @@ This is the Git for paper "Leading scientists are more likely to share data in e
 
 ## Algorithms
 * **LeaderRank**: An up-to-date PageRank-like bibliometric method which can evaluate researchers quantitatively in a specific research field by both cooperation and citation rates, invented by Li et al.(2014) and improved by Deng et al.(2015). In our study, the parameter Wig was changed to mean(sum(Wij)) to make the result more robust.
-* **DOM Parser**: A simple HTML DOM parser written in PHP5+ by [john_schlick] and [me578022] which can parse HTML or XML files into text data, source code can be found at: https://sourceforge.net/projects/simplehtmldom/.
+* **DOM Parser**: A simple HTML DOM parser written in PHP5+ by [john_schlick]() and [me578022]() which can parse HTML or XML files into text data, source code can be found at: https://sourceforge.net/projects/simplehtmldom/.
 * **Duplicate Name Detection**: An algorithm that handle different name expressions of one specific author or investigator in this research, which breaks the names into two parts and evaluate the similarities. Names with the same abbreviation will also be regarded as duplicates. Each researchers or investigators will be given one unique identifier to replace their multiple name expressions.
 
 ## Data Visualization
