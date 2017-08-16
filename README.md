@@ -1,6 +1,6 @@
-# Data Sharing and its Scientific Impacts  
-This is the Git for paper "Leading scientists are more likely to share data in ecology observation" which was written for supporting better policy solution in ecology data communication. This repository contains the source codez on two versions of this paper.
-For paper version 2016, the codes of web crawler, data analysis, LeaderRank algorithm and data visualization are in resource_codez Folder. For paper version 2017, the codes are in root folder and saved in the form of jupyter notebook.
+# Data Sharing and Scientific Impacts in Ecology
+This is the Git repository of paper "Leading scientists are more likely to share data in ecology observation", which was written for supporting better policy making in ecology data communication. This repository contains source codez on two versions of papers.
+For paper version 2016, the codes of web crawler, data analysis, LeaderRank algorithm and data visualization are in resource_codez Folder. For paper version 2017, the codes are in root folder and saved in the form of jupyter notebook. Introductions below are updated to v2017.
 
 ## Datasets
 * **Bibliometric Data**: A total of 5654 research papers were collected in this study. This dataset was collected using formula: `TS = ((flux AND eddy covariance) OR fluxnet OR ameriflux OR asiaflux OR chinaflux OR japanflux OR euroflux OR ozflux OR mexflux) PY = (1982-2015)` in the form of utf-8 full record at Thomson Reuters Web of Science.
