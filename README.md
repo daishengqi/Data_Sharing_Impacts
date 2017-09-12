@@ -7,7 +7,7 @@ For paper version 2016, the codes of web crawler, data analysis, LeaderRank algo
 
 * **Webpage Data**: Webpages were fetched by Web crawler [Scrapy](https://github.com/scrapy/scrapy) and parsed by [BeautifulSoup](https://code.launchpad.net/beautifulsoup), the depth and topN (Maximum webpages that fetched on each depth) in Scrapy were set to default project settings. Root webpages for Scrapy was set to site list pages of all public flux networks. Webpages were parsed into text with the text field wanted(e.g. Site Name, Data avaliability, Investigators...) and summarized into Pandas tables.
 
-* **Data Download**: The raw data envolved in this paper can be found at: http://pan.baidu.com/s/1jHYyl3S (For Chinese Users) and (For non-Chinese Users).
+* **Data Download**: The raw data envolved in this paper can be found at: http://pan.baidu.com/s/1jHYyl3S (For Chinese Users) and http://www.mediafire.com/file/6n59gs14eg2aanl/Original_Data_Upload.zip(For non-Chinese Users).
 
 ## Algorithms
 * **LeaderRank**: An up-to-date PageRank-like bibliometric method which can evaluate researchers quantitatively in a specific research field by both cooperation and citation rates, invented by Li et al.(2014) and improved by Deng et al.(2015). In our study, the parameter Wig was changed to mean(sum(Wij)) to make the result more robust.
