@@ -1,5 +1,5 @@
 # Data Sharing and Scientific Impacts in Ecology
-This is the Git repository of paper "Leading scientists are more likely to share data in ecology observation", which was written for supporting better policy making in ecology data communication. This repository contains source codez on two versions of papers.
+This is the Git repository of paper "Policy and scientific impact drive online data sharing: A survey in eddy covariance flux research", which was written for supporting better policy making in ecology data communication. This repository contains source codez on two versions of papers.
 For paper version 2016, the codes of web crawler, data analysis, LeaderRank algorithm and data visualization are in resource_codez Folder. For paper version 2017, the codes are in root folder and saved in the form of jupyter notebook. Introductions below are updated to v2017.
 
 ## Datasets
