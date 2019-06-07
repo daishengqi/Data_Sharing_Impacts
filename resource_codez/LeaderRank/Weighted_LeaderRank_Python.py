@@ -28,7 +28,7 @@ for i in range(0,Lenc+1):
 output.close()
 
 ################  Result  #########################
-Directed_CNetwork_20151102.net
+# Thr result was saved in "Directed_CNetwork_20151102.net"
 
 #Inner Citation Counts
 for i in range(1,4094):
