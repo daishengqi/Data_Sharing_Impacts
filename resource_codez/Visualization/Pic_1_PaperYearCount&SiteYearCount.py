@@ -36,7 +36,7 @@ Sfig = Pfig.twinx()
 #Draw Figure
 Fone = Pfig.hist(data.Year,bins = 34, label='Publication')
 #Fone = Pfig.bar(year, data, label='Publication')
-Ftwo = Sfig.plot(year, sites, label='Site counts')
+Ftwo = Sfig.plot(year, data.sites, label='Site counts')
 
 #Label settings and Title
 Pfig.set_xlabel('Year', fontsize=15)

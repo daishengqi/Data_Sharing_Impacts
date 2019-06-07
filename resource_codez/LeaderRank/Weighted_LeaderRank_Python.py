@@ -39,7 +39,7 @@ for i in range(1,4094):
 def InitialGraph(Graph):
 	for i in range(1,len(Graph)):
 		Graph[0][i] = 1 #Citation Power Change
-		Graph[i][0] = 1
+		Graph[i][0] = 1	
 	return Graph
 	
 def MakeStochastic(Graph):
