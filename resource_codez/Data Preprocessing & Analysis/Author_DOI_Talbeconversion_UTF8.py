@@ -11,7 +11,7 @@ for line in reader:
         counter+=1
         print(w,'|',line[2],'|',line[5],'|',counter, file = output)
 
-csvfile.close()
+reader.close()
 output.close()
 
 
@@ -23,9 +23,9 @@ output = open('C:/Users/XiaoX/Desktop/Project _科学合作与科学影响力/Da
 counter=0
 for line in reader:
     print(int(line[4])==1,int(line[4])<=counter, file = output)
-	counter=int(line[4])
+    counter=int(line[4])
 
-csvfile.close()
+reader.close()
 output.close()
 
 #############################################################################
@@ -41,7 +41,7 @@ for line in reader:
         counter+=1
         print(w,'|',line[0],'|',line[1],'|',line[4],'|',line[7],'|',line[10],'|',counter, file = output)
 
-#csvfile.close()
+reader.close()
 output.close()
 
 
